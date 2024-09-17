@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/tianyu/ddg-exercises/projects/simplicial-complex-operators",
+    "files.associations": {
+        "*.ipp": "cpp"
+    }
+}
